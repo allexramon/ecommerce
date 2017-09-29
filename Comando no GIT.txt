@@ -1,0 +1,12 @@
+Comitando por linha de comando:
+- git remote add origin "linl ssh ou ht.."
+- git add --all
+- git commmit -m "nome do commit"
+- git push origin master
+- no primeiro envio ele pede senha
+
+
+#####################################
+ Quando adicionar um arquivo ou pasta é necessário atualizar no composer. Para isso digita o camando:
+-composer dump-autoload
+
